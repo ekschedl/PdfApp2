@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t3s/1wgMDEM=",
+  "success": true,
+  "projectFilePath": "/Users/kaaatkina/PdfApp2/PdfApp2.csproj",
+  "expectedPackageFiles": [
+    "/Users/kaaatkina/.nuget/packages/questpdf/2024.12.3/questpdf.2024.12.3.nupkg.sha512"
+  ],
+  "logs": []
+}
