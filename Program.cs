@@ -37,9 +37,8 @@ class Program
                                 row.RelativeItem().Column(contactCol =>
                                 {
                                     contactCol.Spacing(10);
-                                    contactCol.Item().Text("Tel: +43 660 552 0575").FontSize(14);
                                     contactCol.Item().Text("Email: ek.schedl@gmail.com").FontSize(14);
-                                    contactCol.Item().Text("Hafnerstraße 42-1, 8055 Graz").FontSize(14);
+                                    contactCol.Item().Text("Hafnerstraße 422-1, 8055 Graz").FontSize(14);
                                     contactCol.Item().Text("freier Zugang zum Arbeitsmarkt").FontSize(14);
                                 });
 
