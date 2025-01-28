@@ -1,0 +1,8 @@
+*.dll
+*.pdb
+*.jpg
+*.png
+*.cache
+
+obj/
+bin/
